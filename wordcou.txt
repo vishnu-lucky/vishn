@@ -1,0 +1,6 @@
+i am vishnu and i am cse 
+cse : 1
+vishnu : 1
+and : 1
+i : 2
+am : 2
